@@ -1,0 +1,6 @@
+name: daw-client
+
+on:
+  pull_request:['master']
+ 
+jobs:
