@@ -1,4 +1,4 @@
-import React, { useState, Fragment } from 'react';
+import React, { useState } from 'react';
 import MaterialTable from 'material-table';
 import { useForm } from 'react-hook-form';
 import { AddBox, Visibility } from '@material-ui/icons';
