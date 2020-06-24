@@ -1,0 +1,58 @@
+.back {
+  //background-color: aliceblue;
+  background-image: url('https://inspiringfuture.pt/uploads/university/logo/111/isel_ipl_logo.png');
+  background-position: unset;
+  background-size: 250px;
+  background-repeat: no-repeat;
+  height: 100px;
+  //background-position-y: 50px;
+  background-position-x: 40px;
+}
+
+.authForm {
+  text-align: left;
+  padding: 1em;
+  margin: 1em;
+  border: 10px solid #d3d3d3;
+  border-radius: 0.5em;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  margin-top: 100px;
+}
+
+.form-control {
+  width: 50% !important;
+}
+
+.form {
+  padding: 1em;
+}
+
+label {
+  display: flex;
+  font-weight: 600;
+}
+
+button {
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.Signup-title {
+  font-size: 1.5em;
+}
+
+.Signup-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
